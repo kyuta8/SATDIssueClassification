@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "tdissueclassification"
+version = "0.1.0"
+description = ""
+authors = ["Yuta Kimura"]
+
+[tool.poetry.dependencies]
+python = "3.9"
+pandas = "^1.4.1"
+scikit-learn = "^1.0.2"
+imbalanced-learn = "^0.9.0"
+datatable = "^1.0.0"
+tqdm = "^4.63.0"
+xgboost = "^1.5.2"
+lightgbm = "^3.3.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
