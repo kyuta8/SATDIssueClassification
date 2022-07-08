@@ -23,3 +23,5 @@ optional arguments:
   --drop                Drop Data with Outliers
   --project PROJECT     Select Project
 ```
+
+`single.bat`を実行すると全てのプロジェクトでの評価が実行される
