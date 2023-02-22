@@ -25,3 +25,19 @@ optional arguments:
 ```
 
 `single.bat`を実行すると全てのプロジェクトでの評価が実行される
+
+## 論文
+https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&page_id=13&active_action=repository_view_main_item_detail&item_id=223512&item_no=1&block_id=8
+
+```
+@article{木村2023-1,
+   author	 = "木村,祐太 and 大平,雅雄",
+   title	 = "技術的負債に関連する課題票分類手法の構築",
+   journal	 = "情報処理学会論文誌",
+   year 	 = "2023",
+   volume	 = "64",
+   number	 = "1",
+   pages	 = "2--12",
+   month	 = "jan"
+}
+```
